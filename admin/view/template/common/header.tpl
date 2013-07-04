@@ -197,7 +197,7 @@ $(document).ready(function(){
           <li><a href="http://forum.opencart.com" target="_blank"><?php echo $text_support; ?></a></li>
         </ul>
       </li>
-	  <li id="help"><a class="top"><?php echo $text_new; ?></a></li>
+	  
     </ul>
     <ul class="right" style="display: none;">
       <li id="store"><a href="<?php echo $store; ?>" target="_blank" class="top"><?php echo $text_front; ?></a>
