@@ -1,5 +1,6 @@
 /config.php
 /admin/config.php
 /system/cache/*
+/image/cache/*
 .htaccess
 php.ini
