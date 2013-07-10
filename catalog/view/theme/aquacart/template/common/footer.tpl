@@ -97,7 +97,7 @@ $store_settings = isset($GLOBALS["store_settings"]) ? $GLOBALS["store_settings"]
   	  	<a href='<?php echo $store_settings['facebook_icon'];?>' target='_blank' class='icon_facebook' title='Facebook'>Facebook</a>
   <?php } ?>	  	
 <?php } ?>  
-	  	<div id="powered"><a href="http://themeforest.net/user/blueowlcreative/portfolio?ref=blueowlcreative" target="_blank">AquaCart Theme</a> © <?php echo date("Y");?> &nbsp; | &nbsp; <a href="http://www.blueowlcreative.com" target="_blank">BlueOwlCreative</a></div>
+	  	<div id="powered"><a href="http://sujaroyslabrenda.com" target="_blank">sujaroyslabrenda.com</a> © <?php echo date("Y");?> &nbsp; </div>
   </div>
 </div>
 

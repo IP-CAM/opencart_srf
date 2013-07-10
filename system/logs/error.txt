@@ -168,3 +168,16 @@
 2013-07-03 7:01:31 - PHP Warning:  fopen(C:\wamp\www\opencart_srf/system/cache/cache.currency.1372838491) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in C:\wamp\www\opencart_srf\system\library\cache.php on line 32
 2013-07-03 7:01:31 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\wamp\www\opencart_srf\system\library\cache.php on line 34
 2013-07-03 7:01:31 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\wamp\www\opencart_srf\system\library\cache.php on line 36
+2013-07-10 10:51:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:51:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:51:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:51:22 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:51:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:51:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:51:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:51:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:51:29 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:56:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:56:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:56:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
+2013-07-10 10:56:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\opencart_srf\catalog\controller\checkout\cart.php on line 14
