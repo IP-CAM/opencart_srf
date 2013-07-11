@@ -488,7 +488,7 @@ $('#button-cart').bind('click', function() {
 					
 				$('#cart-total').html(json['total']);
 				
-				$('html, body').animate({ scrollTop: 0 }, 'slow'); 
+				window.location.replace("index.php?route=checkout/cart"); 
 			}	
 		}
 	});
