@@ -55,7 +55,7 @@ $(document).ready(function(){
 <div id="container">
 <div id="header">
   <div class="div1">
-    <div class="div2"><img src="view/image/logo.png" title="<?php echo $heading_title; ?>" onclick="location = '<?php echo $home; ?>'" /></div>
+    <div class="div2"><img src="view/image/logo.png" title="<?php echo $heading_title; ?>" onClick="location = '<?php echo $home; ?>'" /></div>
     <?php if ($logged) { ?>
     <div class="div3"><img src="view/image/lock.png" alt="" style="position: relative; top: 3px;" />&nbsp;<?php echo $logged; ?></div>
     <?php } ?>
@@ -80,6 +80,7 @@ $(document).ready(function(){
           <li><a href="<?php echo $download; ?>"><?php echo $text_download; ?></a></li>
           <li><a href="<?php echo $review; ?>"><?php echo $text_review; ?></a></li>
           <li><a href="<?php echo $information; ?>"><?php echo $text_information; ?></a></li>
+          <li><a href="<?php echo $testimonial; ?>"><?php echo $text_testimonial; ?></a></li>
         </ul>
       </li>
       <li id="extension"><a class="top"><?php echo $text_extension; ?></a>

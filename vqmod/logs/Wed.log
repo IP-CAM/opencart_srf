@@ -1,0 +1,13 @@
+---------- Date: 2013-07-17 09:10:19 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /test-opencart/admin/
+MOD DETAILS:
+   modFile   : C:\wamp\www\test-opencart\vqmod/xml/testimonials-1-4-9-3-1.xml
+   id        : Customer Testimonial Package - OpenCart 1.4.9.x core file modifications
+   version   : 1.4.9.3-1
+   vqmver    : 1.0.5
+   author    : JNeuhoff
+SEARCH NOT FOUND (ABORTING MOD): $this->data['information'] = HTTPS_SERVER . 'index.php?route=catalog/information&token=' . $this->session->data['token'];
+
+----------------------------------------------------------------------
+
+
