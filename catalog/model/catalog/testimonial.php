@@ -35,5 +35,13 @@ class ModelCatalogTestimonial extends Model {
 
 			
 	}
+	
+	public function addReferFriend($data) {
+
+		
+$query=$this->db->query("INSERT INTO " . DB_PREFIX . "referfriend(customer_name, customer_email,customer_mobile, friend_name, 
+friend_email) VALUES ('" . $this->db->escape($data['name']) . "',  '" . $this->db->escape($data['e-mail']) . "',  '" . $this->db->escape($data['phone']) . "',  '" . $this->db->escape($data['friendsname']) . "',  '". $this->db->escape($data['friendsemail']) ."')");
+
+	}
 }
 ?>

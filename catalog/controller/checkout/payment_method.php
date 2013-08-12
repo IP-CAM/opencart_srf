@@ -188,7 +188,7 @@ class ControllerCheckoutPaymentMethod extends Controller {
 			if (!$json) {
 				$this->session->data['payment_method'] = $this->session->data['payment_methods'][$this->request->post['payment_method']];
 			  
-				$this->session->data['comment'] = strip_tags($this->request->post['comment']);
+				//$this->session->data['comment'] = strip_tags($this->request->post['comment']);
 			}							
 		}
 		

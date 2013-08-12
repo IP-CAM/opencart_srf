@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] 	= 'Customer Testimonials';
+$_['heading_title'] 	= 'Testimonials';
 
 $_['text_average']      = 'Average Rating:';
 $_['text_stars']        = '%s out of 5 Stars!';

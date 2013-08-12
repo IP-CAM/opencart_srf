@@ -1,12 +1,832 @@
----------- Date: 2013-07-17 09:10:19 ~ IP : 127.0.0.1 ----------
-REQUEST URI : /test-opencart/admin/
+---------- Date: 2013-07-24 05:09:31 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
 MOD DETAILS:
-   modFile   : C:\wamp\www\test-opencart\vqmod/xml/testimonials-1-4-9-3-1.xml
-   id        : Customer Testimonial Package - OpenCart 1.4.9.x core file modifications
-   version   : 1.4.9.3-1
-   vqmver    : 1.0.5
-   author    : JNeuhoff
-SEARCH NOT FOUND (ABORTING MOD): $this->data['information'] = HTTPS_SERVER . 'index.php?route=catalog/information&token=' . $this->session->data['token'];
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:31 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:31 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:31 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:32 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:32 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:32 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:32 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:32 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:33 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:33 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=product/testimonial
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:36 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/account
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:36 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/account
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:36 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:41 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:41 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:42 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:42 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:42 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:42 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:42 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:43 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:09:43 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:10:57 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:10:59 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=common/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:10:59 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=common/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:11:00 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=common/home&amp;token=70e886612b72dda977f3c5d27f63e0f7
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:11:00 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=common/home/chart&amp;token=70e886612b72dda977f3c5d27f63e0f7&amp;range=day
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:11:31 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=module/vqmod_manager&amp;token=70e886612b72dda977f3c5d27f63e0f7
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:11:55 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=sale/customer_group&amp;token=70e886612b72dda977f3c5d27f63e0f7
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:11:59 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=user/user_permission&amp;token=70e886612b72dda977f3c5d27f63e0f7
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:11:59 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=user/user_permission&amp;token=70e886612b72dda977f3c5d27f63e0f7
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:12:00 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=user/user_permission&amp;token=70e886612b72dda977f3c5d27f63e0f7
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:12:03 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=user/user_permission/update&amp;token=70e886612b72dda977f3c5d27f63e0f7&amp;user_group_id=1
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:12:04 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/admin/index.php?route=user/user_permission/update&amp;token=70e886612b72dda977f3c5d27f63e0f7&amp;user_group_id=1
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:12:29 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/return
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 05:12:29 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=account/login
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/remove_returns_links.xml
+   id        : Remove Returns Link
+   version   : 1.0
+   vqmver    : 2.x
+   author    : AlexeyChu
+Could not resolve path for [catalog/view/theme/aquacart/template/account/account.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/account/order_info.tpl] (SKIPPED)
+Could not resolve path for [catalog/view/theme/aquacart/template/module/account.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:49:48 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:49:53 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/login
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:51:36 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:51:36 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout/country&amp;country_id=99
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:51:38 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest/validate
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:51:38 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/shipping_method
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:51:38 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest_shipping
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:51:39 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout/country&amp;country_id=99
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:51:41 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/shipping_method/validate
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:51:41 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/payment_method
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:51:44 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/payment_method/validate
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:51:44 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/confirm
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:58:32 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:58:32 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout/country&amp;country_id=99
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:58:37 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest/validate
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:58:37 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/shipping_method
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:58:37 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest_shipping
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 11:58:37 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout/country&amp;country_id=99
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:00 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/shipping_method/validate
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:00 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/payment_method
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:06 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:12 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/login
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:31 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:31 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout/country&amp;country_id=99
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:33 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest/validate
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:33 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/shipping_method
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:33 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest_shipping
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:33 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout/country&amp;country_id=99
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:35 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/shipping_method/validate
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:18:35 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/payment_method
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:20:38 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:20:40 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/login
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:20:42 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:20:43 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:20:43 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:21:13 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/login
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:21:16 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:21:16 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout/country&amp;country_id=99
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:21:21 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest/validate
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:21:21 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/shipping_method
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:21:21 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/guest_shipping
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:21:21 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/checkout/country&amp;country_id=99
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:21:22 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/shipping_method/validate
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:21:23 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/payment_method
+DOM UNABLE TO LOAD: C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-24 12:24:30 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart_srf/index.php?route=checkout/payment_method
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart_srf\vqmod/xml/removepowered.xml
+   id        : remove compare from return links
+   version   : 1.0
+   vqmver    : 2.1.6
+   author    : oc-mods.com - support@oc-mods.com
+SEARCH NOT FOUND (ABORTING MOD): <b><?php echo $text_comments; ?></b>
+<textarea name="comment" rows="8" style="width: 98%;"><?php echo $comment; ?></textarea>
 
 ----------------------------------------------------------------------
 

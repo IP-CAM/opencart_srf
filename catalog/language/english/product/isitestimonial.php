@@ -4,7 +4,7 @@ $_['heading_title']  	= 'Testimonial Form';
 $_['isi_testimonial'] 	= 'Testimonial was send';
 
 // Text 
-$_['text_message']   	= '<p>Your Testimonial has been successfully sent to the store owner!</p>';
+$_['text_message']   	= '<p>Your Testimonial has been successfully sent</p>';
 $_['text_note']      	= '<span style="color: #FF0000;">Note:</span> HTML is not translated!';
 $_['text_average']      = 'Average Rating:';
 $_['text_stars']        = '%s out of 5 Stars!';
